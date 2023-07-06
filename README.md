@@ -1,6 +1,6 @@
 ### Oii! Eu sou Isabella
 
-- 18y
+- 19y
 - Pretendo trabalhar na área de UX/UI Design ou front-end
 - No momento estou estudando Análise e Desenvolvimento de Sistemas
 
